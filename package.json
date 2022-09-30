@@ -1,0 +1,20 @@
+{
+  "name": "churchweb",
+  "version": "1.0.0",
+  "description": "church website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yonasisay"
+  },
+  "author": "yonas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
+}
